@@ -39,7 +39,17 @@
   <tr>
     <td>Irrigation system</td>
     <td>IOT/Webdevelopment</td>
-    <td>To automatically detect the number plate and split the numbers</td>
+    <td>To automate the Irrigation system curtailing the need of manual operation</td>
+  </tr>
+   <tr>
+    <td>Plottetr</td>
+    <td>Data Analysis</td>
+    <td>To analyze the data provided by the user and plot various graphs representing the data.</td>
+  </tr>
+   <tr>
+    <td>Geographical plot using folium</td>
+    <td>Data Analysis</td>
+    <td>To plot the locations on the world map with colored markers according to the latitude and longitude value provided by the user</td>
   </tr>
 </table>
 
