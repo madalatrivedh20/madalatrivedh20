@@ -18,8 +18,10 @@
   <ol><li>HTML 5</li><li>Css 3</li><li>Java Script</li><li>Bootstrap</li></ol>
   </ul>
 
+**Projects Handled**
 
-|Heading 1|Heading 2| Heading 3                                                                  |
-|---------|---------|----------------------------------------------------------------------------|
-|  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>                    |
-|  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |
+|         Project Title           |  Domain                 |                        Heading 3                                           |                        
+|---------------------------------|-------------------------|----------------------------------------------------------------------------|
+|1)Home Automation using webpage  | IOT/Web development     |  Automation of electronic devices using a web page                         |
+|2)Vehicle NumberPlate Recognition| Machine Learning        |  To automatically detect the number plate and split the numbers.           |                                  |                                 |                         |                                                                            |
+|                                 |                         |                                                                            |
