@@ -27,6 +27,7 @@
 | Irrigation system               |                         |                                                                            |
   
  **Internship Experience**
- *Human Resource Manager(HR) at Royal Gabat Food Science and Technology LLP*
- *Software Engineering Virtual Experience at JPMorgan & Chase Co from Insidesherpa* 
- *Campus Ambassador for IIT Guwahati REFLUX & IIT E-CELL, MADRAS*
+<ul><li><i>Human Resource Manager(HR) at Royal Gabat Food Science and Technology LLP</i></li>
+  <li><i>Software Engineering Virtual Experience at JPMorgan & Chase Co from Insidesherpa</i></li> 
+  <li><i>Campus Ambassador for IIT Guwahati REFLUX & IIT E-CELL, MADRAS</i></li>
+  </ul>
