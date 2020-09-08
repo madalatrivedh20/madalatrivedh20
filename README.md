@@ -20,12 +20,29 @@
 
 **Projects Handled**
 
-|Heading 1|Heading 2| Heading 3                                                                  |
-|---------|---------|----------------------------------------------------------------------------|
-|  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>                    |
-|  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |                                                              |
-|  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>                    |
-|  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |
+<table style="width:100%">
+  <tr>
+    <th>Projects Title</th>
+    <th>Domain</th> 
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Home Automation using webpage</td>
+    <td>IOT/Web development </td>
+    <td>Automation of electronic devices using a web page</td>
+  </tr>
+  <tr>
+    <td>Vehicle NumberPlate Recognition</td>
+    <td>Machine Learning</td>
+    <td>To automatically detect the number plate and split the numbers.</td>
+  </tr>
+  <tr>
+    <td>Irrigation system</td>
+    <td>IOT/Webdevelopment</td>
+    <td>To automatically detect the number plate and split the numbers</td>
+  </tr>
+</table>
+
   
  **Internship Experience**
 <ul><li><i>Human Resource Manager(HR) at Royal Gabat Food Science and Technology LLP</i></li>
