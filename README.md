@@ -3,10 +3,9 @@
 
 **Career Objective**: A highly enthusiastic and hardworking individual, with the right blend of talent and skills, is looking for an opportunity to leverage and build diverse knowledge and contribute to the serving organization with rewarding performance.
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development,ML,Data Analysis projects.
 - 🌱 I’m currently learning Angular 10/ Back-end Development
-- 💬 Ask me about ... Anything you wish to!!
-- 📫 How to reach me:**Email**: *madalatrivedh@gmail.com* **Contact**:*8309476019*
+- 📫 How to reach me: **Email**: *madalatrivedh@gmail.com* **Contact**:*8309476019*
 
 **Technical Skills**
 <ul>
@@ -99,4 +98,4 @@
   <li><i>Languages known:</i>Telugu,English,Hindi</li>
   <li><i>Instagram:</i><a href="https://instagram.com/3vedh_chandra?igshid=gbvikovxzhqj">@3vedh_chandra</a></li>
   <li><i>Messenger:</i><a href="https://m.me/madala.chinna.5">@madala.chinna</a></li></ul>
-  
+  <li><i>Linkedin:</i><a href="https://www.linkedin.com/in/trivedh-madala-311a31183">Trivedh madala</a></li></ul>
