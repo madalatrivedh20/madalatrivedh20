@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![intro logo image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F471681760955394083%2F&psig=AOvVaw0mr1FT1siPNsV3m_Mc62E8&ust=1599639610344000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKitz4eQ2esCFQAAAAAdAAAAABAM)
+![intro logo image](https://github.com/madalatrivedh20/madalatrivedh20/blob/master/90ee8c7d852e53327dbde9fc252cf023.gif)
 
 <!--
 **madalatrivedh20/madalatrivedh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
