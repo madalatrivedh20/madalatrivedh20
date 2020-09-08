@@ -8,9 +8,9 @@
 - 💬 Ask me about ... Anything you wish to!!
 - 📫 How to reach me:**Email**: *madalatrivedh@gmail.com* **Contact**:*8309476019*
 
-**<u>Technical Skills</u>**
+**Technical Skills**
 <ul>
-  <li>*Programming Languages:*</li>
+  <li>*Programming Languages*</li>
   <ol><li>Python</li><li>Java</li><li>C</li></ol>
-  </ul>
+ </ul>
   
