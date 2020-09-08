@@ -24,4 +24,4 @@
 |---------------------------------|-------------------------|----------------------------------------------------------------------------|
 |1)Home Automation using webpage  | IOT/Web development     |  Automation of electronic devices using a web page                         |
 |2)Vehicle NumberPlate Recognition| Machine Learning        |  To automatically detect the number plate and split the numbers.           |                                  |3)Plotter                        | Data Analysis           |  To analyze data and to plot various graphs using teh analyzed data.       |                                  |4)Autonomous and IOT based       | IOT                     |  To automate the irrigation system without manual operation                |
- Irrigation system                |                         |                                                                            |
+| Irrigation system               |                         |                                                                            |
