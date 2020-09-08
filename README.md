@@ -12,5 +12,8 @@
 <ul>
   <li>*Programming Languages*</li>
   <ol><li>Python</li><li>Java</li><li>C</li></ol>
- </ul>
-  
+  <li>*Database*</li>
+  <ol><li>Sql Server</li></ol>
+  <li>*Technologies Stack*</li>
+  <ol><li>HTML 5</li><li>Css 3</li><li>Java Script</li><li>Bootstrap</li></ol>
+  </ul>
