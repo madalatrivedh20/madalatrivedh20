@@ -59,3 +59,44 @@
   <li><i>Software Engineering Virtual Experience at JPMorgan & Chase Co from Insidesherpa</i></li> 
   <li><i>Campus Ambassador for IIT Guwahati REFLUX & IIT E-CELL, MADRAS</i></li>
   </ul>
+  
+  <table style="width:100%">
+  <tr>
+    <th>Course</th>
+    <th>Batch</th> 
+    <th>Board</th>
+    <th>Aggregate</th>
+  </tr>
+  <tr>
+    <td>B.Tech(Information Technology)</td>
+    <td>2018-22</td>
+    <td>Autonomous</td>
+    <td>9.06(CGPA)</td>
+  </tr>
+   <tr>
+    <td>Intermediate(M.P.C)</td>
+    <td>2016-20</td>
+    <td>Telangana Board of Intermediate Education</td>
+    <td>95.7%</td>
+  </tr>
+   <tr>
+    <td>10th Class</td>
+    <td>2016</td>
+    <td>Central Board of Secondary Education</td>
+    <td>9.8(CGPA)</td>
+  </tr>
+  </table>
+  
+  **Co-curricular Achievements**
+  <ul><li>Published a research paper in Scopus Indexed journal International Journal of Advanced Trends in Computer Science and Engineering (IJATCSE) on “Suspicious Activity Detection and Tracking through unmanned Aerial Vehicle Using Deep Learning Techniques”</li>
+  <li>Reached final round of CVR College of Engineering Hackathon 2019 </li>
+  <li>Presented a Paper on Artificial Intelligence at GNITS College</li>
+  <li>Won 2nd prize in the paper presentation contest organized by IEEE club of GRIET in National level technical fest PRAGNYA 2K19</li>
+  <li>Won “Best Speaker” award in a  literary event “GRIET PARLIAMENT”</li></ul>
+  
+  **Personal Details and Social media Handles**
+  <ul><li><i>D.O.B:</i> 7th August 2000</li>
+  <li><i>Languages known:</i>Telugu,English,Hindi</li>
+  <li><i>Instagram:</i><a href="https://instagram.com/3vedh_chandra?igshid=gbvikovxzhqj">@3vedh_chandra</a></li>
+  <li><i>Messenger:</i><a href="https://m.me/madala.chinna.5">@madala.chinna</a></li></ul>
+  
