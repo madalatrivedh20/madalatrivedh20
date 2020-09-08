@@ -97,5 +97,5 @@
   <ul><li><i>D.O.B:</i> 7th August 2000</li>
   <li><i>Languages known:</i>Telugu,English,Hindi</li>
   <li><i>Instagram:</i><a href="https://instagram.com/3vedh_chandra?igshid=gbvikovxzhqj">@3vedh_chandra</a></li>
-  <li><i>Messenger:</i><a href="https://m.me/madala.chinna.5">@madala.chinna</a></li></ul>
+  <li><i>Messenger:</i><a href="https://m.me/madala.chinna.5">@madala.chinna</a></li>
   <li><i>Linkedin:</i><a href="https://www.linkedin.com/in/trivedh-madala-311a31183">Trivedh madala</a></li></ul>
